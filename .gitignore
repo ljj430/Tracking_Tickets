@@ -1,0 +1,17 @@
+
+###.DS_Store
+.DS_Store
+src/.DS_Store
+Paper/.DS_Store
+
+###all intermediate files
+Paper/paper.pdf
+
+
+###pycharm
+__pycache__/**
+.idea/**
+
+
+
+
